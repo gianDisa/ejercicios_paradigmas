@@ -1,0 +1,15 @@
+Refactoring.savealleditors=true
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="ejercicio_1.Nota"><rhs name\="ejercicio_1.Nota"/></lhs><lhs name\="ejercicio_2.Punto"><rhs name\="ejercicio_2.Punto"/></lhs><lhs name\="ejercicio_5.TarjetaBaja"><rhs name\="ejercicio_5.TarjetaBaja"/></lhs><lhs name\="ejercicio_6.Cerradura"><rhs name\="ejercicio_6.Cerradura"/></lhs><lhs name\="ejercicio_1.Cuenta"><rhs name\="ejercicio_1.CuentaCorriente"/><rhs name\="ejercicio_1.CuentaDeAhorros"/></lhs><lhs name\="ejercicio_2.Afinador"><rhs name\="ejercicio_2.Afinador"/></lhs><lhs name\="ejercicio_1.Paquete"><rhs name\="ejercicio_1.Paquete"/></lhs><lhs name\="parcial_viernes_repaso_ej_OOP.Publicacion"><rhs name\="parcial_viernes_repaso_ej_OOP.Recurso_Digital"/></lhs><lhs name\="parcial_viernes_repaso_ej_OOP.Recurso_Digital"><rhs name\="parcial_viernes_repaso_ej_OOP.Recurso_Digital"/></lhs><lhs name\="parcial_martes_OOP.Jugador"><rhs name\="parcial_martes_OOP.JugadorAtaque"/></lhs><lhs name\="parcial_martes_OOP.JugadorAtaque"><rhs name\="parcial_martes_OOP.JugadorAtaque"/></lhs><lhs name\="parcial_nov_2025.Criatura"><rhs name\="parcial_nov_2025.Xenomorfo"/><rhs name\="parcial_nov_2025.Facehugger"/></lhs><lhs name\="parcial_nov_2025.Xenomorfo"><rhs name\="parcial_nov_2025.Xenomorfo"/></lhs><lhs name\="parcial_nov_2025.Facehugger"><rhs name\="parcial_nov_2025.Facehugger"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+markOccurrences=false
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=23
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.BeforeEach"/>
+    <fullyQualifiedTypeName name="ejercicio_1.Nota"/>
+    <fullyQualifiedTypeName name="ejercicio_2.Punto"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="ejercicio_5.TarjetaBaja"/>
+    <fullyQualifiedTypeName name="ejercicio_6.Cerradura"/>
+    <fullyQualifiedTypeName name="ejercicio_1.CuentaCorriente"/>
+    <fullyQualifiedTypeName name="ejercicio_1.CuentaDeAhorros"/>
+    <fullyQualifiedTypeName name="ejercicio_2.Afinables"/>
+    <fullyQualifiedTypeName name="ejercicio_2.Lustrador"/>
+    <fullyQualifiedTypeName name="ejercicio_2.Cuerda"/>
+    <fullyQualifiedTypeName name="ejercicio_2.Afinador"/>
+    <fullyQualifiedTypeName name="ejercicio_1.Paquete"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.time.LocalDate"/>
+    <fullyQualifiedTypeName name="com.sun.tools.classfile.Opcode.Set"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.lang.Record"/>
+    <fullyQualifiedTypeName name="parcial_viernes_repaso_ej_OOP.Recurso_Digital"/>
+    <fullyQualifiedTypeName name="parcial_martes_OOP.JugadorAtaque"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="parcial_nov_2025.Xenomorfo"/>
+    <fullyQualifiedTypeName name="parcial_nov_2025.Facehugger"/>
+    <fullyQualifiedTypeName name="parcial_nov_2025.Reina"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+</qualifiedTypeNameHistroy>
